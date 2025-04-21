@@ -83,4 +83,9 @@
 - [X] Learn about REST APIs
 - [X] Have a tea break
 - [X] Contribute to an open-source project on GitHub
+
+- [Ravenn Bang](https://github.com/RavennLovesCoding)
+- [x] Do a problem on HackerRank
+- [] Work on a crochet project
+- [] Work on a coding project.
 ### <-- Contributor END
